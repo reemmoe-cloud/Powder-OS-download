@@ -1,0 +1,7 @@
+{
+  "name": "Powder OS",
+  "description": "A web-based operating system with a nostalgic Windows 7 aesthetic, featuring a full windowing system, start menu, and built-in apps like Camera, Calculator, and File Explorer.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
